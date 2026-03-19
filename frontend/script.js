@@ -7,7 +7,7 @@ const questions = [
             { text: "Are already out the door. Your automation will parse it, categorize it, and add it to your pipeline while you go out", tool: "n8n" },
             { text: "Reformat the entire JD into a stunning candidate-facing post with vibes and a brand voice that slaps", tool: "Lovable" },
             { text: "Log it in the ATS with structured intake notes, tag the hiring manager, and create a scorecard before you close your laptop", tool: "Metaview" },
-            { text: "Your AI has already scheduled 8 screening calls for Monday morning. You find out Sunday night.", tool: "AlexAI" },
+            { text: "Are not stressin'. Your AI has already scheduled 8 screening calls for Monday morning. You find out Sunday night.", tool: "AlexAI" },
             { text: "Screenshot it, text it to yourself, open four tabs, make a snack, and completely forget about it until Monday", tool: "Fireflies" }
         ]
     },
@@ -19,7 +19,7 @@ const questions = [
             { text: "Don't stress. A re-engagement sequence of 5 touchpoints across email, text, and LinkedIn fires automatically should do it.", tool: "n8n" },
             { text: "Send the most gorgeous checking in message they've ever received. They'll never respond but it looks cute.", tool: "Lovable" },
             { text: "Pull up the interview scorecard, cross reference every red flag you documented, and present a full post-mortem", tool: "Metaview" },
-            { text: "Check your AI that has already re-screened 3 backup candidates without telling you", tool: "AlexAI" },
+            { text: "Check your AI that has already re-screened 3 backup candidates without telling you. How did it knowww?!", tool: "AlexAI" },
             { text: "Spend 45 minutes searching every app you own for their contact info before finding it in a voicemail from 3 weeks ago", tool: "Fireflies" }
         ]
     },
