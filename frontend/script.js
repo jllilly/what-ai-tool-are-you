@@ -16,10 +16,10 @@ const questions = [
         question: "A finalist candidate ghosts you the day of their offer call. You...",
         answers: [
             { text: "Write a warm, non-pushy three paragraph message that somehow makes THEM feel bad for ghosting YOU", tool: "Claude" },
-            { text: "No stress. A re-engagement sequence of 5 touchpoints across email, text, and LinkedIn fires automatically.", tool: "n8n" },
-            { text: "Send the most gorgeous just checking in message they've ever received. They'll never respond but it looks cute.", tool: "Lovable" },
+            { text: "Don't stress. A re-engagement sequence of 5 touchpoints across email, text, and LinkedIn fires automatically should do it.", tool: "n8n" },
+            { text: "Send the most gorgeous checking in message they've ever received. They'll never respond but it looks cute.", tool: "Lovable" },
             { text: "Pull up the interview scorecard, cross reference every red flag you documented, and present a full post-mortem", tool: "Metaview" },
-            { text: "Your AI already re-screened 3 backup candidates without telling you", tool: "AlexAI" },
+            { text: "Check your AI that has already re-screened 3 backup candidates without telling you", tool: "AlexAI" },
             { text: "Spend 45 minutes searching every app you own for their contact info before finding it in a voicemail from 3 weeks ago", tool: "Fireflies" }
         ]
     },
@@ -31,7 +31,7 @@ const questions = [
             { text: "Sent a pre-meeting form 48 hours ago that auto-populated a structured intake doc, a sourcing brief, and a draft job post", tool: "n8n" },
             { text: "Arrive five minutes late, charm the entire room in 30 seconds, and leave with everyone's buy-in and a vision board.", tool: "Lovable" },
             { text: "Open a pre-built structured scorecard, live-score the role requirements in real time, and send a summary before they get back to their desk", tool: "Metaview" },
-            { text: "Realize mid-meeting that your AI screener has already interviewed four candidates. Without being asked.", tool: "AlexAI" },
+            { text: "Realize mid-meeting that your AI screener has already interviewed four candidates. Heck yes.", tool: "AlexAI" },
             { text: "Bring a notebook, write two words and wish you had taken better notes", tool: "Fireflies" }
         ]
     },
@@ -43,7 +43,7 @@ const questions = [
             { text: "Spend the whole night showing people your automation dashboard on your phone. Three people ask for your Notion template.", tool: "n8n" },
             { text: "Walk in and immediately become the most magnetic person in the room. No one knows how. Even you don't know how.", tool: "Lovable" },
             { text: "Collect every business card, scan every LinkedIn QR code, and have fully documented contact notes in your CRM before the Uber home", tool: "Metaview" },
-            { text: "Leave early because your AI screener just booked 14 calls for tomorrow and you need to brief the hiring manager tonight", tool: "AlexAI" },
+            { text: "Leave early because your AI pinged you. You have a dozen calls to review and need to send the top 3 candidates to your manager", tool: "AlexAI" },
             { text: "Have the most electric conversations of the night and wake up the next morning remembering exactly one person's first name", tool: "Fireflies" }
         ]
     },
@@ -55,7 +55,7 @@ const questions = [
             { text: "Build an automated feedback form with mandatory fields that triggers after every rejection. They cannot submit without a reason.", tool: "n8n" },
             { text: "Schedule a casual coffee vibe-check, show up with your best energy, and charm the entire problem out of existence", tool: "Lovable" },
             { text: "Pull a rejection analytics report, highlight the pattern in three bullet points, and walk into their office with receipts", tool: "Metaview" },
-            { text: "Have your AI run a calibration interview with the hiring manager themselves to reset expectations.", tool: "AlexAI" },
+            { text: "Have your AI run a calibration interview with the hiring manager themselves to reset expectations. Let's see how this plays out", tool: "AlexAI" },
             { text: "Vent about it on a call, forget to follow up, remember at 11pm, send a Slack, and somehow it works out", tool: "Fireflies" }
         ]
     }
